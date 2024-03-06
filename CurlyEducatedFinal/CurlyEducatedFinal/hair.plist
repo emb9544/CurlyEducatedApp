@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Curls</key>
+	<array>
+		<dict>
+			<key>typeA</key>
+			<string>2A</string>
+			<key>descriptionA</key>
+			<string>Type 2A hair grows straight at the crown and creases toward the end. The wave shapes diverge slightly from straight lines.</string>
+			<key>typeB</key>
+			<string>2B</string>
+			<key>descriptionB</key>
+			<string>Type 2B hair grows straight, but starts forming medium to large S-shaped waves at the crown (think beach waves).</string>
+			<key>typeC</key>
+			<string>2C</string>
+			<key>descriptionC</key>
+			<string>Type 2C waves are usually identified as small to medium size waves that form into a letter S shape as they grow. </string>
+		</dict>
+		<dict>
+			<key>typeA</key>
+			<string>3A</string>
+			<key>descriptionA</key>
+			<string>Curl type 3A features stretched spirals of curls that are large in diameter and roll down from the crown.</string>
+			<key>typeB</key>
+			<string>3B</string>
+			<key>descriptionB</key>
+			<string>Type 3B has well-defined medium size springs that resemble corkscrews.</string>
+			<key>typeC</key>
+			<string>3C</string>
+			<key>descriptionC</key>
+			<string>Type 3C hair has springs that are smaller and more tightly-packed than 3B</string>
+		</dict>
+		<dict>
+			<key>typeA</key>
+			<string>4A</string>
+			<key>descriptionA</key>
+			<string>Curl type 4A can be recognized by its small but distinctively S-shaped strands sequenced into looped, tight rings</string>
+			<key>typeB</key>
+			<string>4B</string>
+			<key>descriptionB</key>
+			<string>Type 4B is characterized by its tiny zigzagged pattern, which is often accompanied by compressed and s-shape coils.</string>
+			<key>typeC</key>
+			<string>4C</string>
+			<key>descriptionC</key>
+			<string>Type 4C tightly coiled strands are more fragile than any other pattern and have a very tight zig-zag shape that is sometimes indiscernible to the eye.</string>
+		</dict>
+	</array>
+</dict>
+</plist>
